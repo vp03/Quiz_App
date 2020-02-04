@@ -4,4 +4,5 @@
     <string name="submit">Submit</string>
     <string name="color_hint">What is your favorite color?</string>
     <string name="name_hint">What is your name?</string>
+    <string name="great_person">You are a very great person</string>
 </resources>
